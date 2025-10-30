@@ -1,0 +1,91 @@
+2025-10-28 08:40:49,683 - INFO: Navigating to the website.
+2025-10-28 08:40:52,609 - ERROR: Failed to load the website: 'Chrome' object has no attribute 'wait_for_ready_state_complete'
+2025-10-28 08:41:01,385 - INFO: Driver closed.
+2025-10-28 10:43:54,230 - INFO: Navigating to the website.
+2025-10-28 10:43:57,189 - ERROR: Failed to load the website: 'Chrome' object has no attribute 'wait_for_ready_state_complete'
+2025-10-28 10:44:05,990 - INFO: Driver closed.
+2025-10-28 10:44:49,227 - INFO: Navigating to the website.
+2025-10-28 10:44:51,735 - ERROR: Failed to load the website: 'Chrome' object has no attribute 'wait_for_ready_state_complete'
+2025-10-28 10:45:00,457 - INFO: Driver closed.
+2025-10-28 10:50:00,943 - INFO: Navigating to the website.
+2025-10-28 10:50:07,937 - ERROR: Failed to load the website: 'Chrome' object has no attribute 'wait_for_ready_state_complete'
+2025-10-28 10:50:16,665 - INFO: Driver closed.
+2025-10-28 11:22:41,188 - INFO: Navigating to the website.
+2025-10-28 11:24:04,553 - ERROR: Failed to load the website: 'Chrome' object has no attribute 'wait_for_ready_state_complete'
+2025-10-28 11:24:13,312 - INFO: Driver closed.
+2025-10-28 11:53:22,109 - INFO: Navigating to the website.
+2025-10-28 11:55:32,433 - INFO: Driver closed.
+2025-10-28 12:00:21,673 - INFO: Navigating to the website.
+2025-10-28 12:00:48,457 - ERROR: Failed to load the website: 'Chrome' object has no attribute 'wait_for_ready_state_complete'
+2025-10-28 12:00:57,181 - INFO: Driver closed.
+2025-10-28 13:01:36,631 - INFO: Navigating to the website.
+2025-10-28 13:03:21,392 - INFO: Driver closed.
+2025-10-28 13:05:16,248 - INFO: Navigating to the website.
+2025-10-28 13:06:19,044 - ERROR: Failed to load the website: 'Chrome' object has no attribute 'wait_for_ready_state_complete'
+2025-10-28 13:06:27,787 - INFO: Driver closed.
+2025-10-28 13:08:22,476 - INFO: Navigating to the website.
+2025-10-28 13:10:08,526 - ERROR: Failed to load the website: 'Chrome' object has no attribute 'wait_for_ready_state_complete'
+2025-10-28 13:10:17,287 - INFO: Driver closed.
+2025-10-28 13:11:31,290 - INFO: Navigating to the website.
+2025-10-28 13:12:32,506 - INFO: Driver closed.
+2025-10-28 13:17:02,411 - INFO: Navigating to the website.
+2025-10-28 13:18:05,843 - INFO: Driver closed.
+2025-10-28 13:18:56,084 - INFO: Navigating to the website.
+2025-10-28 13:19:14,818 - INFO: Driver closed.
+2025-10-28 13:19:43,408 - INFO: Navigating to the website.
+2025-10-28 13:20:02,426 - INFO: Driver closed.
+2025-10-28 13:21:59,643 - INFO: Navigating to the website.
+2025-10-28 13:22:38,441 - INFO: Driver closed.
+2025-10-28 13:23:23,735 - INFO: Navigating to the website.
+2025-10-28 13:24:23,486 - INFO: Driver closed.
+2025-10-28 13:47:31,938 - INFO: Navigating to the website.
+2025-10-28 13:48:13,061 - ERROR: Failed to load the website: No module named 'openpyxl'
+2025-10-28 13:48:21,846 - INFO: Driver closed.
+2025-10-28 13:49:09,121 - INFO: Navigating to the website.
+2025-10-28 13:50:00,667 - INFO: Driver closed.
+2025-10-28 13:54:26,186 - INFO: Navigating to the website.
+2025-10-28 14:01:35,471 - INFO: Driver closed.
+2025-10-28 14:06:41,908 - INFO: Navigating to the website.
+2025-10-28 14:12:47,598 - INFO: Driver closed.
+2025-10-28 14:17:01,728 - INFO: Navigating to the website.
+2025-10-28 14:19:13,489 - INFO: Driver closed.
+2025-10-28 14:20:21,768 - INFO: Navigating to the website.
+2025-10-28 14:22:35,067 - INFO: Driver closed.
+2025-10-28 14:23:32,330 - INFO: Navigating to the website.
+2025-10-28 14:33:36,399 - INFO: Driver closed.
+2025-10-28 14:45:14,602 - INFO: Navigating to the website.
+2025-10-28 14:53:29,965 - INFO: Driver closed.
+2025-10-28 14:55:37,212 - INFO: Navigating to the website.
+2025-10-28 14:59:07,521 - INFO: Driver closed.
+2025-10-28 14:59:34,968 - INFO: Navigating to the website.
+2025-10-28 15:08:23,748 - INFO: Driver closed.
+2025-10-28 15:17:09,154 - INFO: Navigating to the website.
+2025-10-28 15:18:48,924 - INFO: Driver closed.
+2025-10-28 15:19:31,083 - INFO: Navigating to the website.
+2025-10-28 15:27:44,675 - INFO: Driver closed.
+2025-10-28 15:30:44,336 - INFO: Navigating to the website.
+2025-10-28 15:39:19,352 - INFO: Driver closed.
+2025-10-28 15:53:39,139 - INFO: Navigating to the website.
+2025-10-28 16:02:03,567 - INFO: Driver closed.
+2025-10-28 16:05:05,626 - INFO: Navigating to the website.
+2025-10-28 16:13:38,541 - INFO: Driver closed.
+2025-10-28 16:15:22,805 - INFO: Navigating to the website.
+2025-10-28 16:23:36,758 - INFO: Driver closed.
+2025-10-29 08:08:10,653 - INFO: Navigating to the website.
+2025-10-29 08:19:17,935 - INFO: Driver closed.
+2025-10-29 08:21:31,595 - INFO: Navigating to the website.
+2025-10-29 08:30:04,771 - INFO: Driver closed.
+2025-10-29 08:34:34,141 - INFO: Navigating to the website.
+2025-10-29 08:42:53,967 - INFO: Driver closed.
+2025-10-29 09:18:36,006 - INFO: Navigating to the website.
+2025-10-29 09:18:52,374 - ERROR: Failed to load the website: 'builtin_function_or_method' object is not iterable
+2025-10-29 09:19:01,154 - INFO: Driver closed.
+2025-10-29 09:19:32,651 - INFO: Navigating to the website.
+2025-10-29 09:27:47,968 - ERROR: Failed to load the website: [Errno 13] Permission denied: 'C:\\Users\\Mark Lumba\\Desktop\\method_race_wheels_sample_scrape_data_2025_10_29.xlsx'
+2025-10-29 09:27:56,657 - INFO: Driver closed.
+2025-10-30 08:08:22,977 - INFO: Navigating to the website.
+2025-10-30 08:18:39,404 - INFO: Driver closed.
+2025-10-30 08:23:26,427 - INFO: Navigating to the website.
+2025-10-30 08:31:47,652 - INFO: Driver closed.
+2025-10-30 08:58:56,095 - INFO: Navigating to the website.
+2025-10-30 09:07:33,200 - INFO: Driver closed.

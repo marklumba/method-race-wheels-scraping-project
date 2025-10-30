@@ -1,0 +1,5 @@
+seleniumbase>=4.0.0
+pandas>=1.3.0
+xlwings>=0.24.0
+psutil>=5.8.0
+openpyxl>=3.0.0
